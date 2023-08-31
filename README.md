@@ -27,3 +27,12 @@ Conclusión:
 La subimos al repositorio en GitHub para presentarla en nuestro primer portafolio digital. Este proyecto nos permitió aprender sobre desarrollo web, trabajo en equipo y gestión de versiones. ¡No olvides seguirnos en redes sociales!
 
 ¡Muchas gracias!
+
+[@EcoCycle](https://rebegv.github.io/EcoCycle/)
+
+## Autoría
+
+- [@PrisionMike](https://github.com/MichaelPizarro)
+- [@neltoledo](https://www.github.com/neltoledo)
+- [@GabrielSilvaHern](https://github.com/GabrielSilvaHern)
+- [@rebegv](https://www.github.com/rebegv)
