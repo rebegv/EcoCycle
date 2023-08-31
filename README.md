@@ -28,7 +28,7 @@ La subimos al repositorio en GitHub para presentarla en nuestro primer portafoli
 
 ¡Muchas gracias!
 
-[@EcoCycle](https://rebegv.github.io/EcoCycle/)
+[EcoCycle](https://rebegv.github.io/EcoCycle/)
 
 ## Autoría
 
